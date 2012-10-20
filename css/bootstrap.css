@@ -806,9 +806,12 @@ abbr.initialism {
 }
 
 blockquote {
-  padding: 0 0 0 15px;
+  padding: 20px;
   margin: 0 0 20px;
   border-left: 5px solid #eeeeee;
+  background-color: #e0e0e0;
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 120%;
 }
 
 blockquote p {
